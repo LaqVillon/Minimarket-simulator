@@ -1,4 +1,4 @@
-# Game
+# Minimarket Simulator
 
 This simple project (with notes in Portuguese) consists of a minimarket simulator
 ## Necessary technologies:
